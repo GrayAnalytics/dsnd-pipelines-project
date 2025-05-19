@@ -52,3 +52,7 @@ Udacity provided instructions of what they expect for this project
 ## License
 
 [License](LICENSE.txt)
+
+## Attribution  
+
+Note: Some code from previous Udacity lessons were re-used for this project.
