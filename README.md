@@ -34,17 +34,6 @@ cd dsnd-pipelines-project
 python -m pip install -r requirements.txt
 ```
 
-## Testing
-
-Explain the steps needed to run any automated tests
-
-### Break Down Tests
-
-Explain what each test does and why
-
-```
-Examples here
-```
 
 ## Project Instructions
 
